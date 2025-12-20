@@ -1,5 +1,5 @@
 
-# Mini Code Editor
+# Mini Editor
 
 A lightweight, professional Python code editor built with `PyQt6`, featuring a VS Code-inspired dark theme, file explorer, and syntax highlighting.
 
